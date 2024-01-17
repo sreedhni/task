@@ -1,0 +1,20 @@
+
+
+The program will prompt you to enter the quantity for each product (Product A, B, C).
+For each product, type in the quantity and press Enter.
+
+After entering the quantity for each product, the program will ask whether each product should be wrapped as a gift.
+Type 'yes' if you want the product to be wrapped as a gift, or 'no' otherwise.
+Review Cart Details:
+
+The program will display the details of each product, including quantity and total amount for that product.
+It will also calculate the subtotal based on the entered quantities.
+Apply Discounts:
+
+The program will apply the most beneficial discount based on the given rules.
+It will display the name of the applied discount and the corresponding discount amount.
+Calculate Shipping and Gift Wrap Fees:
+
+The program calculates the gift wrap fee for each product and the shipping fee based on the total quantity.
+
+The program shows a summary of the cart, including subtotal, applied discount, gift wrap fee, shipping fee, and the total amount.
